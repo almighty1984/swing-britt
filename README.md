@@ -19,7 +19,7 @@ Edit:
 
 Game:
 
-    wasd               - move
+    arrows             - move
     z                  - sprint
     x                  - jump
     c                  - melee
